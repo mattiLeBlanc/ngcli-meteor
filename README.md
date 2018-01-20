@@ -1,4 +1,4 @@
-# AngularcliMeteor (my implementation of Urigo's work)
+# Angular cli Meteor (my implementation of Urigo's work)
 
 Working implementation of https://github.com/Urigo/angular-meteor/tree/master/examples/angularcli-meteor
 
@@ -11,7 +11,7 @@ When installing, do the following to get this to work:
 
 That's it. Now you can run the backend in `/api` using `meteor` and the NG CLI in the main folder by using `npm run start`.
 
-
+------------------------------------ original doc -----------------------------------
 
 ## Meteor server
 
