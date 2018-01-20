@@ -1,5 +1,7 @@
 # AngularcliMeteor
 
+Working implementiation of https://github.com/Urigo/angular-meteor/tree/master/examples/angularcli-meteor
+
 ## Meteor server
 
 Run `meteor` from the `api` directory to start the Meteor server.
